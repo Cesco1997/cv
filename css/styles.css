@@ -35,10 +35,6 @@ hr {
   width: 25%;
 }
 
-a {
-  margin: 10px 20px ; 
-}
-
 .top-cloud {
   position: absolute;
   right: 300px;
@@ -78,6 +74,7 @@ a {
 
 .footer-link {
   color: #11999E;
+  margin: 10px 20px; 
 }
 
 .profile {
